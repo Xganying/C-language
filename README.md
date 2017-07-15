@@ -1,4 +1,4 @@
-## C-language
+## C_language - Compass_Navigation_System
 
 #### 数据结构课程设计：用C语言实现校园导航系统。
 
